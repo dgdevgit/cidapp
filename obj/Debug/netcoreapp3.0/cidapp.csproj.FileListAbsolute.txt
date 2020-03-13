@@ -1,0 +1,11 @@
+C:\Ng\cidapp\bin\Debug\netcoreapp3.0\cidapp.exe
+C:\Ng\cidapp\bin\Debug\netcoreapp3.0\cidapp.deps.json
+C:\Ng\cidapp\bin\Debug\netcoreapp3.0\cidapp.runtimeconfig.json
+C:\Ng\cidapp\bin\Debug\netcoreapp3.0\cidapp.runtimeconfig.dev.json
+C:\Ng\cidapp\bin\Debug\netcoreapp3.0\cidapp.dll
+C:\Ng\cidapp\bin\Debug\netcoreapp3.0\cidapp.pdb
+C:\Ng\cidapp\obj\Debug\netcoreapp3.0\cidapp.csprojAssemblyReference.cache
+C:\Ng\cidapp\obj\Debug\netcoreapp3.0\cidapp.AssemblyInfoInputs.cache
+C:\Ng\cidapp\obj\Debug\netcoreapp3.0\cidapp.AssemblyInfo.cs
+C:\Ng\cidapp\obj\Debug\netcoreapp3.0\cidapp.dll
+C:\Ng\cidapp\obj\Debug\netcoreapp3.0\cidapp.pdb
