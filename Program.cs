@@ -6,7 +6,7 @@ namespace cidapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Test for CID");
+            Console.WriteLine("This is a test for CID");
         }
     }
 }
